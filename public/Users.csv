@@ -1,0 +1,21 @@
+﻿Id,FName,LName,Email,PhoneNumber,UserImage,UserType,CreatedAt,UpdatedAt,PasswordHash,AccessFailedCount,CarId,ConcurrencyStamp,DriverLicense,EmailConfirmed,ExperienceYears,LockoutEnabled,LockoutEnd,NormalizedEmail,NormalizedUserName,PhoneNumberConfirmed,RouteId,SecurityStamp,TwoFactorEnabled,UserName
+1,محمد,أحمد,mohamed.ahmed@example.com,01234567890,NULL,1,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_1,0,NULL,NULL,EG123456,0,5,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+2,علي,محمود,ali.mahmoud@example.com,01234567891,NULL,1,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_2,0,NULL,NULL,EG123457,0,3,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+3,خالد,حسن,khaled.hassan@example.com,01234567892,NULL,1,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_3,0,NULL,NULL,EG123458,0,7,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+4,أحمد,سعيد,ahmed.saeed@example.com,01234567893,NULL,1,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_4,0,NULL,NULL,EG123459,0,4,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+5,مصطفى,عبدالله,mostafa.abdallah@example.com,01234567894,NULL,1,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_5,0,NULL,NULL,EG123460,0,6,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+6,سارة,محمد,sara.mohamed@example.com,01234567895,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_6,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+7,منى,إبراهيم,mona.ibrahim@example.com,01234567896,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_7,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+8,ياسمين,خالد,yasmin.khaled@example.com,01234567897,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_8,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+9,رامي,على,rami.ali@example.com,01234567898,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_9,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+10,نور,حسين,nour.hussein@example.com,01234567899,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_10,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+11,هبة,جمال,heba.gamal@example.com,01234567900,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_11,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+12,عمر,صلاح,omar.salah@example.com,01234567901,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_12,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+13,فاطمة,يوسف,fatma.youssef@example.com,01234567902,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_13,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+14,زينب,محسن,zeinab.mohsen@example.com,01234567903,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_14,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+15,إسلام,ناصر,islam.nasser@example.com,01234567904,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_15,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+16,مروة,عبدالرحمن,marwa.abdelrahman@example.com,01234567905,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_16,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+17,تامر,سمير,tamer.samir@example.com,01234567906,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_17,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+18,ليلى,محمود,layla.mahmoud@example.com,01234567907,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_18,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+19,حسن,عبدالعزيز,hassan.abdelaziz@example.com,01234567908,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_19,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
+20,دينا,فؤاد,dina.fouad@example.com,01234567909,NULL,2,2025-04-18 13:16:04.9723149 +02:00,NULL,hashed_password_20,0,NULL,NULL,NULL,0,NULL,0,NULL,NULL,NULL,0,NULL,NULL,0,NULL
